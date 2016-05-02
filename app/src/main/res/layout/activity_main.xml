@@ -34,7 +34,7 @@
             android:layout_marginRight="25dp"
             android:layout_marginBottom="9dp"
             android:textSize="17sp"
-            android:text="ADMISSION"    />
+            android:text="@string/op1" />
         <Button
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -45,7 +45,7 @@
             android:layout_marginRight="25dp"
             android:layout_marginBottom="9dp"
             android:textSize="17sp"
-            android:text="GALLERY"    />
+            android:text="@string/op2"    />
         <Button
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -56,7 +56,7 @@
             android:layout_marginRight="25dp"
             android:layout_marginBottom="9dp"
             android:textSize="17sp"
-            android:text="EDU PLUS"    />
+            android:text="@string/op3"    />
         <Button
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -67,7 +67,7 @@
             android:layout_marginRight="25dp"
             android:layout_marginBottom="9dp"
             android:textSize="17sp"
-            android:text="ABOUT US"    />
+            android:text="@string/op4"    />
         <Button
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -78,7 +78,7 @@
             android:layout_marginRight="25dp"
             android:layout_marginBottom="9dp"
             android:textSize="17sp"
-            android:text="CONTACT US"    />
+            android:text="@string/op5"    />
 
     </LinearLayout>
 
